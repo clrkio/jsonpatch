@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"gomodules.xyz/jsonpatch/v2"
+	"github.com/clrkio/jsonpatch/v2"
 )
 
 func TestMarshalNullableValue(t *testing.T) {
